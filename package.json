@@ -1,10 +1,10 @@
 {
-  "name": "generator-cbits-angular-phoneapp",
-  "version": "0.0.0",
+  "name": "generator-cbits-angular-phonegap",
+  "version": "0.1.0",
   "description": "Yeoman generator",
   "license": "MIT",
   "main": "app/index.js",
-  "repository": "jchung1005/generator-cbits-angular-phoneapp",
+  "repository": "jchung1005/generator-cbits-angular-phonegap",
   "author": {
     "name": "",
     "email": "",
